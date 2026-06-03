@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { Link } from "react-router-dom";
 
 const API_URL = process.env.REACT_APP_BACKEND_URL;
+const DASHBOARD_URL = process.env.REACT_APP_DASHBOARD_URL;
 
 
 function Login() {
@@ -46,7 +47,7 @@ function Login() {
                 const encodedUser = encodeURIComponent(JSON.stringify(data.user));
 
                 setTimeout(() => {
-                    window.location.href = `http://localhost:3001?token=${data.token}&user=${encodedUser}`;
+                    window.location.href = `${DASHBOARD_URL}?token=${data.token}&user=${encodedUser}`;
                 }, 1200);
             } else {
                 setMessage(data.message || "Invalid email or password");
