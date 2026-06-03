@@ -78,7 +78,7 @@ function Team() {
 
                         <a
                             style={{ textDecoration: "none" }}
-                            href=''
+                            href='/'
                         >
                             Connect on Homepage
                         </a>
@@ -87,7 +87,7 @@ function Team() {
 
                         <a
                             style={{ textDecoration: "none" }}
-                            href=''
+                            href='/'
                         >
                             TradingQnA
                         </a>
@@ -96,7 +96,7 @@ function Team() {
 
                         <a
                             style={{ textDecoration: "none" }}
-                            href=''
+                            href='/'
                         >
                             Twitter
                         </a>

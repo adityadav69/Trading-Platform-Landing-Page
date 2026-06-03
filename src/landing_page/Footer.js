@@ -45,14 +45,14 @@ function Footer() {
 
                         <h5 className="mb-4 fw-semibold">Company</h5>
 
-                        <a style={linkStyle} href="">About</a><br />
-                        <a style={linkStyle} href="">Products</a><br />
-                        <a style={linkStyle} href="">Pricing</a><br />
-                        <a style={linkStyle} href="">Referral programme</a><br />
-                        <a style={linkStyle} href="">Careers</a><br />
-                        <a style={linkStyle} href="">Zerodha.tech</a><br />
-                        <a style={linkStyle} href="">Press & media</a><br />
-                        <a style={linkStyle} href="">Zerodha cares (CSR)</a>
+                        <a style={linkStyle} href="/AboutPage">About</a><br />
+                        <a style={linkStyle} href="ProductsPage">Products</a><br />
+                        <a style={linkStyle} href="/PricingPage">Pricing</a><br />
+                        <a style={linkStyle} href="/">Referral programme</a><br />
+                        <a style={linkStyle} href="/">Careers</a><br />
+                        <a style={linkStyle} href="/">Zerodha.tech</a><br />
+                        <a style={linkStyle} href="/">Press & media</a><br />
+                        <a style={linkStyle} href="/">Zerodha cares (CSR)</a>
 
                     </div>
 
@@ -60,11 +60,11 @@ function Footer() {
 
                         <h5 className="mb-4 fw-semibold">Support</h5>
 
-                        <a style={linkStyle} href="">Contact</a><br />
-                        <a style={linkStyle} href="">Support portal</a><br />
-                        <a style={linkStyle} href="">Z-Connect blog</a><br />
-                        <a style={linkStyle} href="">List of charges</a><br />
-                        <a style={linkStyle} href="">Downloads & resources</a>
+                        <a style={linkStyle} href="/">Contact</a><br />
+                        <a style={linkStyle} href="/">Support portal</a><br />
+                        <a style={linkStyle} href="/">Z-Connect blog</a><br />
+                        <a style={linkStyle} href="/">List of charges</a><br />
+                        <a style={linkStyle} href="/">Downloads & resources</a>
 
                     </div>
 
@@ -72,9 +72,9 @@ function Footer() {
 
                         <h5 className="mb-4 fw-semibold">Account</h5>
 
-                        <a style={linkStyle} href="">Open an account</a><br />
-                        <a style={linkStyle} href="">Fund transfer</a><br />
-                        <a style={linkStyle} href="">60 day challenge</a>
+                        <a style={linkStyle} href="/">Open an account</a><br />
+                        <a style={linkStyle} href="/">Fund transfer</a><br />
+                        <a style={linkStyle} href="/">60 day challenge</a>
 
                     </div>
 
@@ -119,15 +119,15 @@ function Footer() {
                     <div
                         className="d-flex flex-wrap justify-content-center gap-3 mt-4"
                     >
-                        <a style={linkStyle} href="">NSE</a>
-                        <a style={linkStyle} href="">BSE</a>
-                        <a style={linkStyle} href="">MCX</a>
-                        <a style={linkStyle} href="">Terms & conditions</a>
-                        <a style={linkStyle} href="">Policies & procedures</a>
-                        <a style={linkStyle} href="">Privacy policy</a>
-                        <a style={linkStyle} href="">Disclosure</a>
-                        <a style={linkStyle} href="">Investor attention</a>
-                        <a style={linkStyle} href="">Investor charter</a>
+                        <a style={linkStyle} href="/">NSE</a>
+                        <a style={linkStyle} href="/">BSE</a>
+                        <a style={linkStyle} href="/">MCX</a>
+                        <a style={linkStyle} href="/">Terms & conditions</a>
+                        <a style={linkStyle} href="/">Policies & procedures</a>
+                        <a style={linkStyle} href="/">Privacy policy</a>
+                        <a style={linkStyle} href="/">Disclosure</a>
+                        <a style={linkStyle} href="/">Investor attention</a>
+                        <a style={linkStyle} href="/">Investor charter</a>
                     </div>
 
                 </div>

@@ -11,7 +11,7 @@ function Brokerage() {
                     <h4 className='text-center mb-4'>
                         <a
                             style={{ textDecoration: "none" }}
-                            href=''
+                            href='/'
                         >
                             Brokerage Calculator
                         </a>
@@ -57,7 +57,7 @@ function Brokerage() {
                     <h4 className='text-center mb-4'>
                         <a
                             style={{ textDecoration: "none" }}
-                            href=''
+                            href='/'
                         >
                             List of Charges
                         </a>

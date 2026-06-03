@@ -121,7 +121,7 @@ function CreateTicket() {
                                         display: "block",
                                         fontSize: "1rem",
                                     }}
-                                    href=""
+                                    href="/"
                                 >
                                     {link}
                                 </a>

@@ -38,7 +38,7 @@ function Hero() {
                         Check out our{" "}
 
                         <a
-                            href=''
+                            href='/'
                             style={{
                                 textDecoration: "none",
                                 fontWeight: "500",

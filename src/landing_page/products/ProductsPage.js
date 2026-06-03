@@ -1,12 +1,9 @@
 import React from 'react'
-
 import Hero from "./Hero"
 import LeftSection from "./LeftSection"
 import RightSection from "./RightSection"
 import Universe from "./Universe"
 
-import Navbar from "../Navbar"
-import Footer from "../Footer"
 
 
 export default function ProductsPage() {
@@ -22,7 +19,7 @@ export default function ProductsPage() {
 
       <LeftSection imgUrl="media\images\varsity.png" productName="Varsity mobile" productDesc="An easy to grasp, collection of stock market lessons with in-depth coverage and illustrations. Content is broken down into bite-size cards to help you learn on the go" tryDemoUrl="" learnMoreUrl="" playUrl="" appStoreUrl="" />
 
-      <p className='text-center fs-5 mt-5 mb-5'>Want to know more about our technology stack? Check out the <a href='' style={{textDecoration:"none"}}>Zerodha.tech</a> blog.</p>
+      <p className='text-center fs-5 mt-5 mb-5'>Want to know more about our technology stack? Check out the <a href='/' style={{textDecoration:"none"}}>Zerodha.tech</a> blog.</p>
       <Universe/>
     </>
 

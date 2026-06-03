@@ -75,7 +75,7 @@ function Hero() {
 
                     <p>
                         <a
-                            href=''
+                            href='/'
                             style={{
                                 textDecoration: "none",
                             }}
@@ -92,21 +92,21 @@ function Hero() {
                         Catch up on the latest updates on our{" "}
                         <a
                             style={{ textDecoration: "none" }}
-                            href=''
+                            href='/'
                         >
                             blog
                         </a>{" "}
                         or see what the media is{" "}
                         <a
                             style={{ textDecoration: "none" }}
-                            href=''
+                            href='/'
                         >
                             saying about us
                         </a>{" "}
                         or learn more about our business and product{" "}
                         <a
                             style={{ textDecoration: "none" }}
-                            href=''
+                            href='/'
                         >
                             philosophies
                         </a>.
