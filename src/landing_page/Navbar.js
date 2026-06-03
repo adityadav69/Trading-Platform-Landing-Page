@@ -23,6 +23,7 @@ function Navbar() {
             style={{
                 backgroundColor: "#FFF",
                 width: "100%",
+                height:"80px",
                 padding: "0",
             }}
         >
@@ -32,13 +33,9 @@ function Navbar() {
 
                 <Link className="navbar-brand d-flex align-items-center m-0" to="/">
                     <img
-                        src="media/images/logo.svg"
+                        src="media/images/logo.png"
                         alt="Logo"
-                        className="img-fluid"
-                        style={{
-                            width: "140px",
-                            minWidth: "110px",
-                        }}
+                        style={{width: "150px",objectFit: "contain"}}
                     />
                 </Link>
 
