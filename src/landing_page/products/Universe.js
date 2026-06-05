@@ -66,7 +66,7 @@ function Universe() {
                             color: "#222",
                         }}
                     >
-                        The Zerodha Universe
+                        The Adix Universe
                     </h1>
 
                     <p

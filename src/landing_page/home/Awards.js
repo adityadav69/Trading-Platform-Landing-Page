@@ -7,7 +7,7 @@ function Awards() {
 
                 <div className='col-lg-6 col-12 text-center'>
                     <img
-                        src='media/images/largestBroker.svg'
+                        src='media/images/z2.png'
                         alt='Largest Broker'
                         className='img-fluid'
                         style={{
@@ -37,7 +37,7 @@ function Awards() {
                             lineHeight: "1.8",
                         }}
                     >
-                        2+ million Zerodha clients contribute to over 15% of all retail order
+                        2+ million Adix clients contribute to over 15% of all retail order
                         volumes in India daily by trading and investing in:
                     </p>
 

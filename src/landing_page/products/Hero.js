@@ -15,7 +15,7 @@ function Hero() {
                             color: "#222",
                         }}
                     >
-                        Zerodha Products
+                        Adix Products
                     </h1>
 
                     <h3

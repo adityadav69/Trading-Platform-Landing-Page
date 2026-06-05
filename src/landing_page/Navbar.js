@@ -31,7 +31,7 @@ function Navbar() {
                 className="w-100 d-flex align-items-center justify-content-between px-3 py-2"
             >
 
-                <Link className="navbar-brand d-flex align-items-center m-0" to="/">
+                <Link className="navbar-brand d-flex align-items-center m-0" to="/homepage">
                     <img
                         src="media/images/logo.png"
                         alt="Logo"
@@ -62,7 +62,7 @@ function Navbar() {
                     <li className="nav-item">
                         <Link
                             className={`nav-link ${isActive("/") ? "active-link" : ""}`}
-                            to="/"
+                            to="/homepage"
                             onClick={closeNavbar}
                         >
                             Home

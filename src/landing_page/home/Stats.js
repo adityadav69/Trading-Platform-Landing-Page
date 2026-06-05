@@ -30,7 +30,7 @@ function Stats() {
                                 fontSize: "1rem",
                             }}
                         >
-                            That's why 1.3+ crore customers trust Zerodha with
+                            That's why 1.3+ crore customers trust Adix with
                             3.5+ lakh crores worth of equity investments.
                         </p>
                     </div>
@@ -55,7 +55,7 @@ function Stats() {
 
                     <div className='mb-4'>
                         <h2 className='fs-4 fw-semibold mb-3'>
-                            The Zerodha universe
+                            The Adix universe
                         </h2>
 
                         <p

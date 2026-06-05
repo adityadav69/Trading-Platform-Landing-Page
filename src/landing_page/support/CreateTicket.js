@@ -17,7 +17,7 @@ function CreateTicket() {
 
         {
             icon: "fa-regular fa-circle-user",
-            title: "Your Zerodha Account",
+            title: "Your Adix Account",
             links: [
                 "Your Profile",
                 "Account modification",
@@ -121,7 +121,7 @@ function CreateTicket() {
                                         display: "block",
                                         fontSize: "1rem",
                                     }}
-                                    href="/"
+                                    href="/homepage"
                                 >
                                     {link}
                                 </a>

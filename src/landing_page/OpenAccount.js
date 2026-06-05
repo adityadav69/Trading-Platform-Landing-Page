@@ -20,7 +20,7 @@ function OpenAccount() {
                             lineHeight: "1.3",
                         }}
                     >
-                        Open a Zerodha account
+                        Open a Adix account
                     </h1>
 
                     <p

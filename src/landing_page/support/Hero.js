@@ -59,7 +59,7 @@ function Hero() {
                     </h4>
 
                     <a
-                        href='/'
+                        href='/homepage'
                         onClick={handleTicketClick}
                         style={{
                             color: "white",
@@ -105,7 +105,7 @@ function Hero() {
                         >
 
                             <a
-                                href='/'
+                                href='/homepage'
                                 style={{
                                     color: "white",
                                     textDecoration: "none",
@@ -115,7 +115,7 @@ function Hero() {
                             </a>
 
                             <a
-                                href='/'
+                                href='/homepage'
                                 style={{
                                     color: "white",
                                     textDecoration: "none",
@@ -125,7 +125,7 @@ function Hero() {
                             </a>
 
                             <a
-                                href='/'
+                                href='/homepage'
                                 style={{
                                     color: "white",
                                     textDecoration: "none",
@@ -135,7 +135,7 @@ function Hero() {
                             </a>
 
                             <a
-                                href='/'
+                                href='/homepage'
                                 style={{
                                     color: "white",
                                     textDecoration: "none",
@@ -145,7 +145,7 @@ function Hero() {
                             </a>
 
                             <a
-                                href='/'
+                                href='/homepage'
                                 style={{
                                     color: "white",
                                     textDecoration: "none",

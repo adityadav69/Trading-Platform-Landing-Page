@@ -133,6 +133,10 @@ function Login() {
                         Not signed up yet?{" "}
                         <Link to="/signup">Create account</Link>
                     </p>
+                    <p className="auth-switch">
+                        continue without login?{" "}
+                        <Link to="/homepage">Landing Page</Link>
+                    </p>
                 </div>
             </div>
 

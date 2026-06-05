@@ -58,20 +58,18 @@ function Team() {
                 <div className='col-lg-7 col-12'>
 
                     <p>
-                        Nithin bootstrapped and founded Zerodha in 2010 to
+                        Aditya bootstrapped and founded Adix in 2010 to
                         overcome the hurdles he faced during his decade long
-                        stint as a trader. Today, Zerodha has changed the
+                        stint as a trader. Today, Adix has changed the
                         landscape of the Indian broking industry.
                     </p>
 
                     <p>
-                        He is a member of the SEBI Secondary Market Advisory
-                        Committee (SMAC) and the Market Data Advisory Committee
-                        (MDAC).
+                       He is doing MCA final year from Central University Of Karnataka
                     </p>
 
                     <p>
-                        Playing basketball is his zen.
+                        Plays cricket.
                     </p>
 
                     <p>
