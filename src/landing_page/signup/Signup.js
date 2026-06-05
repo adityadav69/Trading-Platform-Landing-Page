@@ -48,7 +48,7 @@ function Signup() {
                 setMessage("Account created successfully!");
 
                 setTimeout(() => {
-                    navigate("/login");
+                    navigate("/");
                 }, 1200);
             } else {
                 setMessage(data.message || "Signup failed");
@@ -149,7 +149,7 @@ function Signup() {
 
                     <p className="auth-switch">
                         Already have an account?{" "}
-                        <Link to="/login">Login</Link>
+                        <Link to="/">Login</Link>
                     </p>
                 </div>
             </div>
